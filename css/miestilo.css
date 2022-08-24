@@ -1,0 +1,31 @@
+*{
+	padding: 4px;
+	margin-top:4px; 
+}
+
+h1{
+	font-size: 3em;
+	color: #000000;
+	font-weight: bold;
+	font-family: times;
+}
+
+label{
+	font-size: 1.5em;
+	color: #000000;
+	text-align: center;
+	font-family: Arial;
+}
+
+body{
+	background-image: url(../img/46460625-Teal-and-White-Dog-Paw-Prints-Puppy-Bone-and-Hearts-Tile-Pattern-Repeat-Background-that-is-seamless--Stock-Photo.jpg);
+	font-size: 20px;
+	background-repeat:no-repeat;
+	background-size: cover;
+	padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.foto{
+	border-radius: 50em;
+}
